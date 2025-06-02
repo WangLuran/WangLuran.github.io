@@ -20,3 +20,8 @@ Lent
 [Lent Week 6](https://asheriasi.github.io/files/Project_Lent_Week_6.pdf)
 
 
+Mich
+
+[GPAM Crossfeatures](https://asheriasi.github.io/files/GPAM_crossfeatures.pdf)
+[Presentation](https://asheriasi.github.io/files/Michaelmas_Presentation_as3189_updated.pdf)
+
