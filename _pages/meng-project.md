@@ -10,5 +10,13 @@ author_profile: true
 
 This page documents my project work as a sort of planner/ log book.
 
-[Duck Duck Go](https://duckduckgo.com)
+
+Lent
+
+[TMR](https://asheriasi.github.io/files/Sharma_Ansh_as3189_TMR.pdf)
+[Lent Week 2](https://asheriasi.github.io/files/Project_Lent_Week_2.pdf)
+[Lent Week 3_4](https://asheriasi.github.io/files/Project_Lent_Week_3_4.pdf)
+[Lent Week 5](https://asheriasi.github.io/files/Project_Lent_Week_5.pdf)
+[Lent Week 6](https://asheriasi.github.io/files/Project_Lent_Week_6.pdf)
+
 
