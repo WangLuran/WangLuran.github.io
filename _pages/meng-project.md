@@ -11,9 +11,4 @@ author_profile: true
 This is Luran's documents for project work as a sort of planner/ log book.
 
 
-Lent
-
-
-
-
-Mich
+[Log Book] (WangLuran.github.io/files/luran_lw703_log.pdf)
