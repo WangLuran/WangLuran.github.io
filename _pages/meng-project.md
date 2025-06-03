@@ -18,8 +18,7 @@ Easter
 
 Lent
 
-[TMR]
-[week 1]
+[TMR](https://WangLuran.github.io/files/TMR.pdf)
 [week 2]
 [week 3]
 [week 4]
