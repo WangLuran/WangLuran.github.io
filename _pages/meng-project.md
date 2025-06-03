@@ -12,10 +12,12 @@ This is the document for project work as a sort of planner/ log book.
 
 
 Easter
+
 [Final report]
 
 
 Lent
+
 [TMR]
 [week 1]
 [week 2]
@@ -26,6 +28,7 @@ Lent
 
 
 Mich
+
 [week 1-2]
 [week 3-4]
 [week 5-6]
