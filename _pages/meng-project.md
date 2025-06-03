@@ -13,7 +13,7 @@ This is the document for project work as a sort of planner/ log book.
 
 Easter
 
-[Final report]
+[Final report](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/Towards_better_Neural_Samplers_for_Molecular_Modeling.pdf)
 
 
 Lent
@@ -27,7 +27,7 @@ Lent
 
 Mich
 
-[week 1-2]
-[week 3-4]
-[week 5-6]
-[week 7-8]
+[week 1-2](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/michealmas_week_1_2.pdf)
+[week 3-4](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/michealmas_week_3_4.pdf)
+[week 5-6](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/michealmas_week_5_6.pdf)
+[week 7-8](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/michealmas_week_7_8.pdf)
