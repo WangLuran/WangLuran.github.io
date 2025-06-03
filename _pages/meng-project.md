@@ -18,7 +18,7 @@ Easter
 
 Lent
 
-[TMR](https://WangLuran.github.io/files/TMR.pdf)
+[TMR](https://github.com/WangLuran/WangLuran.github.io/blob/WangLuran-patch-1/files/TMR.pdf)
 [week 2]
 [week 3]
 [week 4]
